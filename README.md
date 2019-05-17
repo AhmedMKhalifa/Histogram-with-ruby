@@ -1,4 +1,4 @@
-#Ruby-Projects-on-Codecademy
-Ruby Projects from codecademy course 
+# Ruby-Projects-on-Codecademy
+
 
 Codecademy.com/ahmedkhlalifa
